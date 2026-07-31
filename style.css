@@ -23,5 +23,12 @@ ul {
   }
 
   img{
-    width: 20%;
+    width: 90%;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.list-title{style to bold}
