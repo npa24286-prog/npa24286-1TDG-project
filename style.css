@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: #e8b4c8;
   }
   
   .navbar ul li {
@@ -19,7 +19,7 @@
   }
   
   .navbar ul li a:hover {
-    background-color: #111111;
+    background-color: #e8b4c8;
   }
 
   img{
@@ -38,3 +38,24 @@
 h1{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+h1{
+  font-size: 350%;
+}
+
+.navbar{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+  font-family: 'Lucida handwriting', cursive;
+}
+
+body{
+  background-color: #e8dccb;
+}
+
+h1{
+  text-align:  center;
+}
+
