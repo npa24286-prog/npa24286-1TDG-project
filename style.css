@@ -59,3 +59,15 @@ h1{
   text-align:  center;
 }
 
+p{
+  font-family: Garamond;
+}
+
+img{
+  border-style: solid;
+  border-width: 10px;
+}
+
+img{
+  border-color: #e8b4c8;
+}
