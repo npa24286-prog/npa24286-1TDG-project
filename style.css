@@ -75,3 +75,11 @@ img{
 p{
   font-size: 150%;
 }
+
+li{
+  font-size: 150%;
+}
+
+.list-title{
+  font-weight: bold;
+}
